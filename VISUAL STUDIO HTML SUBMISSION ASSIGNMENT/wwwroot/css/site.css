@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+body {
+    background-color: maroon;
+}
+
+.Lime {
+    color: lime
+}
